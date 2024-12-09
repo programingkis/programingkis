@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [KIM MINGYU]!
+# 👋 Hello!
 
 - 🌱 I’m currently learning **[Python, Java]**
 - 💼 I'm working as **[Student]**
